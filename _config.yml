@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hello, Stranger!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Johny Koo"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Johny Koo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ":^)"
   location         : "Seoul, South Korea"
   email            : "bonhyup.koo@gmail.com"
   links:
